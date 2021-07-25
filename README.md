@@ -1,6 +1,6 @@
 ### 🙋‍♂️ Hey there, I'm Sub.
 
-- I am a User Interface Designer, Initiate Python Developer, and a guy who loves new things!
+- I am a User Interface Designer, Initiate Python Developer, and a guy who loves learning new things!
 - If you wish to contact me, you could add me on Discord, **sub#1000**
 
 ```py
