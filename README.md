@@ -11,3 +11,7 @@ if fact == 'Python is not fun!':
 else:
     print('Python is fun!')
 ```
+
+# My Discord
+
+![](https://imgur.com/yMMicdW.png)
